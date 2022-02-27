@@ -1,9 +1,7 @@
 package com.nursultan.spring.mvc_hibernate_aop.controller;
 
-import com.nursultan.spring.mvc_hibernate_aop.dao.EmployeeDAO;
 import com.nursultan.spring.mvc_hibernate_aop.entity.Employee;
 import com.nursultan.spring.mvc_hibernate_aop.service.EmployeeService;
-import com.sun.org.apache.xpath.internal.operations.Mod;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
